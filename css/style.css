@@ -1,0 +1,33 @@
+header{
+
+    min-height: 70px;
+    border-bottom: red 4px;
+
+
+}
+
+
+header ul{
+
+    margin: 4px;
+    padding: 4px;
+
+
+}
+
+header li{
+
+    float: right;
+
+
+}
+
+
+
+#showcase {
+  min-height: 1000px;  
+  background-image: url('/project0/images/4kbackground.jpg');
+  background-attachment: cover;
+  background-size: cover;
+  opacity: 0.8;
+}
