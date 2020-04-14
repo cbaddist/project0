@@ -6,24 +6,15 @@ header{
 
 }
 
-
 header ul{
 
     margin: 4px;
     padding: 4px;
-
-
 }
 
-header li{
-
-    float: right;
-
-
+.navbar-brand {
+    color: #ffffff  !important;
 }
-
-
-
 #showcase {
   min-height: 1000px;  
   background-image: url('/project0/images/4kbackground.jpg');
